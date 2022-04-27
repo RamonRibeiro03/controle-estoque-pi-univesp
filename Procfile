@@ -1,1 +1,1 @@
-web: gunicorn project.wsgi
+web: gunicorn controle-estoque-pi-univesp.wsgi
